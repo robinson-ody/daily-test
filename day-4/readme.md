@@ -1,4 +1,4 @@
-# Daily Interview Pro
+# December 16, 2020
 
 Given a string with the initial condition of dominoes, where:  
 `.` represents that the domino is standing still  
