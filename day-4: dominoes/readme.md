@@ -1,4 +1,4 @@
-# December 16, 2020
+# December 16, 2020 - Dominoes
 
 Given a string with the initial condition of dominoes, where:  
 `.` represents that the domino is standing still  
